@@ -1,8 +1,7 @@
-# Learning-resources
-Minimalistic list of resources that you need to start with machine learning (ML):
+Internet is now filled with tons of blogs, tutorials, workshops and so on and hence the chances of getting lost are fairly high for a beginner. If one needs to start with the fascinating world of machine learning, you are in the right place. Following are the minimalistic set of resources that one needs to have at his side. 
+
 
 ## List of courses:
-
 
 Course | Instructor | Req.Hours | Link |
 --- | --- | --- | --- |
@@ -11,11 +10,29 @@ ISLR video lectures| Dr. Hastie and Dr. Tibshirani | 15 |[ISLR](https://www.data
 |Learning from data|Professor Yaser Abu-Mostafa|24|[YouTube playlist](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)|
 |Introduction to Machine Learning for Coders  |Jeremy Howard|25|[Lessons](http://course18.fast.ai/ml)|
 
-*
+## List of books:
 
-## *List of books:**
+**Introduction:**
 
- 1. [The Hundred-Page Machine Learning Book](http://themlbook.com/)
- 2. [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
- 3. [Python Machine Learning, 2nd Edition](https://sebastianraschka.com/books.html#python-machine-learning-2nd-edition)
- 4. [Learning from data](http://amlbook.com/)
+ - [The Hundred-Page Machine Learning Book](http://themlbook.com/)
+
+**Theoratical:**
+
+ - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+ - [Learning from data](http://amlbook.com/)
+
+**Practical:**
+
+ 
+ - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
+ - [Python Machine Learning, 2nd
+   Edition](https://sebastianraschka.com/books.html#python-machine-learning-2nd-edition)
+    
+
+## List of blogs:
+
+ 1. [Analytics vidhya](https://www.analyticsvidhya.com/blog/)
+ 2. [Towards Data Science](https://towardsdatascience.com/)
+ 3. [KDnuggets](https://www.kdnuggets.com/news/index.html)
+ 4. [Machine learning mastery](https://machinelearningmastery.com/blog)
+
