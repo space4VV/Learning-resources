@@ -1,4 +1,4 @@
-Internet is now filled with tons of blogs, tutorials, workshops and so on and hence the chances of getting lost are fairly high for a beginner. If one needs to start with the fascinating world of machine learning, you are in the right place. Following are the minimalistic set of resources that one needs to have at his side. 
+Internet is now filled with tons of blogs, tutorials, workshops and so on and hence the chances of getting lost are fairly high for a beginner. If one needs to start with the fascinating world of machine learning, you are in the right place. Following are the minimalistic set of resources that one needs to have. 
 
 
 ## List of courses:
