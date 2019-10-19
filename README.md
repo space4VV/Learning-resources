@@ -16,7 +16,7 @@ ISLR video lectures| Dr. Hastie and Dr. Tibshirani | 15 |[ISLR](https://www.data
 
  - [The Hundred-Page Machine Learning Book](http://themlbook.com/)
 
-**Theoratical:**
+**Theoretical:**
 
  - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
  - [Learning from data](http://amlbook.com/)
